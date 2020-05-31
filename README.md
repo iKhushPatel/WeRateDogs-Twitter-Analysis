@@ -1,5 +1,4 @@
 # Wrangle-and-Analyze-Data
-Udacity's Data Analyst Nanodegree - Project 4
 
 Real-world data rarely comes clean. Using Python and its libraries, the project gathers data from a variety of sources and in a variety of formats, assesses its quality and tidiness, then provides a cleaned version. This process is known as data wrangling. These wrangling efforts are documents in a Jupyter Notebook and a separate write-up. 
 
